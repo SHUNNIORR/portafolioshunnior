@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.css"
-import aboutImg from "../../assets/about-img.jpg"
+import aboutImg from "./../../assets/about-img.jpg"
 
 export const About = ({isScrolling}) => {
     return (

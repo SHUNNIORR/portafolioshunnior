@@ -1,7 +1,7 @@
 import React,{Fragment} from 'react'
 import "./Cover.css";
-import coverVideo from "../../assets/video-experimento.mp4"
-import icono from "../../assets/down-arrow.svg"
+import coverVideo from "./../../assets/video-experimento.mp4"
+import icono from "./../../assets/down-arrow.svg"
 
 export const Cover = ({isScrolling}) => {
     return (

@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Footer.css"
-import footerVideo from "../../assets/footer-video.mp4"
+import footerVideo from "./../../assets/footer-video.mp4"
 export const Footer = () => {
     return (
         <footer className="footer">
