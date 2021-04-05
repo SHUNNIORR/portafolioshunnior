@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SHUNNIORR/portafolioshunnior/static/css/main.1b824849.chunk.css",
+    "main.js": "/SHUNNIORR/portafolioshunnior/static/js/main.8bf0d3f3.chunk.js",
+    "main.js.map": "/SHUNNIORR/portafolioshunnior/static/js/main.8bf0d3f3.chunk.js.map",
+    "runtime-main.js": "/SHUNNIORR/portafolioshunnior/static/js/runtime-main.19f4e4d2.js",
+    "runtime-main.js.map": "/SHUNNIORR/portafolioshunnior/static/js/runtime-main.19f4e4d2.js.map",
+    "static/css/2.15c72766.chunk.css": "/SHUNNIORR/portafolioshunnior/static/css/2.15c72766.chunk.css",
+    "static/js/2.f5d0e5b9.chunk.js": "/SHUNNIORR/portafolioshunnior/static/js/2.f5d0e5b9.chunk.js",
+    "static/js/2.f5d0e5b9.chunk.js.map": "/SHUNNIORR/portafolioshunnior/static/js/2.f5d0e5b9.chunk.js.map",
+    "index.html": "/SHUNNIORR/portafolioshunnior/index.html",
+    "static/css/2.15c72766.chunk.css.map": "/SHUNNIORR/portafolioshunnior/static/css/2.15c72766.chunk.css.map",
+    "static/css/main.1b824849.chunk.css.map": "/SHUNNIORR/portafolioshunnior/static/css/main.1b824849.chunk.css.map",
+    "static/js/2.f5d0e5b9.chunk.js.LICENSE.txt": "/SHUNNIORR/portafolioshunnior/static/js/2.f5d0e5b9.chunk.js.LICENSE.txt",
+    "static/media/about-img.85f19aa2.jpg": "/SHUNNIORR/portafolioshunnior/static/media/about-img.85f19aa2.jpg",
+    "static/media/down-arrow.0f2f23d6.svg": "/SHUNNIORR/portafolioshunnior/static/media/down-arrow.0f2f23d6.svg",
+    "static/media/footer-video.b99b6883.mp4": "/SHUNNIORR/portafolioshunnior/static/media/footer-video.b99b6883.mp4",
+    "static/media/video-experimento.603b67cb.mp4": "/SHUNNIORR/portafolioshunnior/static/media/video-experimento.603b67cb.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19f4e4d2.js",
+    "static/css/2.15c72766.chunk.css",
+    "static/js/2.f5d0e5b9.chunk.js",
+    "static/css/main.1b824849.chunk.css",
+    "static/js/main.8bf0d3f3.chunk.js"
+  ]
+}
