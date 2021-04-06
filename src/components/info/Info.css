@@ -16,3 +16,8 @@
     font-family: 'Pacifico', cursive;
     font-weight: 300;
 }
+@media (min-width: 320px) and (max-width: 767px){
+    .info {
+        margin-left: 10px;
+    }
+}
