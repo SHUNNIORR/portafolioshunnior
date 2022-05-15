@@ -40,7 +40,11 @@
     color: black;
 }
 @media (min-width: 320px) and (max-width: 767px){
-    .skill-card{
-        width: 150px;
+    .recent-container-info-desc{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .recent-container-info-img{
+        width: 350px;
     }
 }

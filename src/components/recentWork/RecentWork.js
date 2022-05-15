@@ -8,7 +8,7 @@ const RecentWork = () => {
         <div className='recent-container-info'>
             <h4 className='container-info-name' >Capsulas Express Nutresa</h4>
             <p className='recent-container-info-desc' > I worked on the renovation of the website, which was created using VTEX.io, React.js and Node.js, which allows creating an e-commerce, reusable, scalable and stable. This project took 5 months of development.</p>
-            <img width="600"src='https://gruponutresa.com/wp-content/uploads/2016/09/capsulas-maquina-nutresabias-Grupo-Nutresa.jpg'/>
+            <img className='recent-container-info-img' width="600"src='https://gruponutresa.com/wp-content/uploads/2016/09/capsulas-maquina-nutresabias-Grupo-Nutresa.jpg'/>
             <a className='recent-container-info-link' href="https://www.capsulasexpressnutresa.com/" >Meet him</a>
         </div>
     </div>
