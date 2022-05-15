@@ -13,6 +13,7 @@ export const Footer = () => {
                 <h3>Contact me</h3>
                 <p>And let´s get down to work</p>
                 <p ><i class="fas fa-envelope"></i> jperezpenaranda@gmail.com</p>
+                <p> <i class="fas fa-phone" style={{transform: 'rotate(90deg)'}} ></i> +57 322 781 0248</p>
             </div>
             <div className="footer-sns">
                 <div className="design-by">
