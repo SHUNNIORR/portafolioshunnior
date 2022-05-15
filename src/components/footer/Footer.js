@@ -19,7 +19,7 @@ export const Footer = () => {
                     Design by  <p className="footer-nombre">Shunnior.</p>
                 </div>
                 <div className="sns-links">
-                    <a className="social" href="https://www.linkedin.com/in/jorge-omar-p%C3%A9rez-pe%C3%B1aranda-a8b20a188/" target="_blank" rel="noreferrer">
+                    <a className="social" href="https://www.linkedin.com/in/jorge-perez-a8b20a188/" target="_blank" rel="noreferrer">
                         <i className=" fab fa-linkedin linkedin"></i>                       
                     </a>
                     <a className="social" href="https://github.com/SHUNNIORR" target="_blank" rel="noreferrer">

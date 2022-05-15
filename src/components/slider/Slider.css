@@ -60,9 +60,9 @@
 /* RESPONSIVE*/
 /* Celular*/
 @media (min-width: 320px) and (max-width: 767px){
+    
     .carousel-container{
         flex-direction: column;
-        
     }
     .carousel-title {
         width: 100%;
@@ -71,6 +71,12 @@
     }
     .BrainhubCarousel__arrows{
         margin: 10px;
+    }
+    .BrainhubCarouselItem{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        width: 200px !important;
+        max-width: none !important;
     }
 }
 /* Tablet*/

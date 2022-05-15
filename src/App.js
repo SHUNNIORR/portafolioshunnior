@@ -6,9 +6,12 @@ import About from "./components/about/About.js"
 import Slider from "./components/slider/Slider"
 import Info from "./components/info/Info"
 import Footer from "./components/footer/Footer"
+import Skills from './components/skills/Skills';
+import { useMediaQuery } from 'react-responsive'
 
 function App() {
   const[scrollHeight, setScrollHeight]=useState(0);
+  const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
   const handleScroll= () =>{
     const  position = window.pageYOffset;
     setScrollHeight(position);
@@ -22,7 +25,9 @@ function App() {
       <Navbar isScrolling={scrollHeight}></Navbar>
       <Cover isScrolling={scrollHeight}></Cover>
       <About isScrolling={scrollHeight}></About>
-      <Slider></Slider>
+      <Skills></Skills>
+      {isTabletOrMobile?<p>Mobile</p>:<Slider></Slider>}
+      
       <Info></Info>
       <Footer></Footer>
     </div>
