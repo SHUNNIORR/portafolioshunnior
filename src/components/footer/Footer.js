@@ -17,7 +17,7 @@ export const Footer = () => {
             </div>
             <div className="footer-sns">
                 <div className="design-by">
-                    Design by  <p className="footer-nombre">Shunnior.</p>
+                    Design & develop by  <p className="footer-nombre">Shunnior.</p>
                 </div>
                 <div className="sns-links">
                     <a className="social" href="https://www.linkedin.com/in/jorge-perez-a8b20a188/" target="_blank" rel="noreferrer">
@@ -26,7 +26,7 @@ export const Footer = () => {
                     <a className="social" href="https://github.com/SHUNNIORR" target="_blank" rel="noreferrer">
                         <i className=" fab fa-github github"></i>
                     </a>
-                    <a className="social" href="https://www.instagram.com/shunnior/" target="_blank" rel="noreferrer">
+                    <a className="social" href="https://www.instagram.com/shunnior.js/" target="_blank" rel="noreferrer">
                         <i className=" fab fa-instagram instagram"></i>
                     </a>
                 </div>

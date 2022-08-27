@@ -22,6 +22,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-bottom: 2px solid black;
+    gap: 10px;
 }
 .container-info-name{
     font-size: 25px;
@@ -38,6 +40,9 @@
     font-weight: bolder;
     text-decoration: underline;
     color: black;
+}
+.recent-container-info-img{
+    margin-top: 20px;
 }
 @media (min-width: 320px) and (max-width: 767px){
     .recent-container-info-desc{
