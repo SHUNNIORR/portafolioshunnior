@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SHUNNIORR/portafolioshunnior/static/css/main.2b8c5fc2.chunk.css",
-    "main.js": "/SHUNNIORR/portafolioshunnior/static/js/main.9e3012ea.chunk.js",
-    "main.js.map": "/SHUNNIORR/portafolioshunnior/static/js/main.9e3012ea.chunk.js.map",
-    "runtime-main.js": "/SHUNNIORR/portafolioshunnior/static/js/runtime-main.19f4e4d2.js",
-    "runtime-main.js.map": "/SHUNNIORR/portafolioshunnior/static/js/runtime-main.19f4e4d2.js.map",
-    "static/js/2.f64c53db.chunk.js": "/SHUNNIORR/portafolioshunnior/static/js/2.f64c53db.chunk.js",
-    "static/js/2.f64c53db.chunk.js.map": "/SHUNNIORR/portafolioshunnior/static/js/2.f64c53db.chunk.js.map",
-    "index.html": "/SHUNNIORR/portafolioshunnior/index.html",
-    "static/css/main.2b8c5fc2.chunk.css.map": "/SHUNNIORR/portafolioshunnior/static/css/main.2b8c5fc2.chunk.css.map",
-    "static/js/2.f64c53db.chunk.js.LICENSE.txt": "/SHUNNIORR/portafolioshunnior/static/js/2.f64c53db.chunk.js.LICENSE.txt",
-    "static/media/down-arrow.b39bf229.svg": "/SHUNNIORR/portafolioshunnior/static/media/down-arrow.b39bf229.svg",
-    "static/media/footer-video.b99b6883.mp4": "/SHUNNIORR/portafolioshunnior/static/media/footer-video.b99b6883.mp4",
-    "static/media/video-experimento.603b67cb.mp4": "/SHUNNIORR/portafolioshunnior/static/media/video-experimento.603b67cb.mp4"
+    "main.css": "/shunniorr.github.io/portafolioshunnior/static/css/main.2b8c5fc2.chunk.css",
+    "main.js": "/shunniorr.github.io/portafolioshunnior/static/js/main.9e3012ea.chunk.js",
+    "main.js.map": "/shunniorr.github.io/portafolioshunnior/static/js/main.9e3012ea.chunk.js.map",
+    "runtime-main.js": "/shunniorr.github.io/portafolioshunnior/static/js/runtime-main.3959b56f.js",
+    "runtime-main.js.map": "/shunniorr.github.io/portafolioshunnior/static/js/runtime-main.3959b56f.js.map",
+    "static/js/2.f64c53db.chunk.js": "/shunniorr.github.io/portafolioshunnior/static/js/2.f64c53db.chunk.js",
+    "static/js/2.f64c53db.chunk.js.map": "/shunniorr.github.io/portafolioshunnior/static/js/2.f64c53db.chunk.js.map",
+    "index.html": "/shunniorr.github.io/portafolioshunnior/index.html",
+    "static/css/main.2b8c5fc2.chunk.css.map": "/shunniorr.github.io/portafolioshunnior/static/css/main.2b8c5fc2.chunk.css.map",
+    "static/js/2.f64c53db.chunk.js.LICENSE.txt": "/shunniorr.github.io/portafolioshunnior/static/js/2.f64c53db.chunk.js.LICENSE.txt",
+    "static/media/down-arrow.b39bf229.svg": "/shunniorr.github.io/portafolioshunnior/static/media/down-arrow.b39bf229.svg",
+    "static/media/footer-video.b99b6883.mp4": "/shunniorr.github.io/portafolioshunnior/static/media/footer-video.b99b6883.mp4",
+    "static/media/video-experimento.603b67cb.mp4": "/shunniorr.github.io/portafolioshunnior/static/media/video-experimento.603b67cb.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.19f4e4d2.js",
+    "static/js/runtime-main.3959b56f.js",
     "static/js/2.f64c53db.chunk.js",
     "static/css/main.2b8c5fc2.chunk.css",
     "static/js/main.9e3012ea.chunk.js"
